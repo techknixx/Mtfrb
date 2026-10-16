@@ -1,0 +1,10 @@
+{
+  "name": "Remix MTFRB-CASTILLEJOS-v3",
+  "description": "Municipal Tricycle Franchising and Regulatory Board (MTFRB) Portal for processing permits, renewals, and franchise applications online.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
